@@ -1,6 +1,8 @@
 * {
     
     margin: 10px;
+    margin-right: 35px;
+    margin-left: 35px;
     padding: 5px;
 }
 body
@@ -17,6 +19,7 @@ body
 .container
 {
     display: flex;
+    margin: 65px;
 }
 .style
 {
@@ -53,4 +56,5 @@ img
     flex-wrap: wrap;
     align-content: center;
     align-items: flex-start;
+    margin: 85px;
 }
