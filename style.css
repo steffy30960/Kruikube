@@ -58,3 +58,15 @@ img
     align-items: flex-start;
     margin: 85px;
 }
+.center
+{
+    margin: auto;
+    margin-top: 80px;
+
+}
+.position
+{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    
+}
