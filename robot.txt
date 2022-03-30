@@ -1,0 +1,4 @@
+Sitemap: https://steffy30960.github.io/Kruikube/sitemap.xml
+
+User-agent: *
+Disallow:
