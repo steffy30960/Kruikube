@@ -45,11 +45,6 @@ img
 }
 .right
 {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-content: center;
-    align-items: flex-start;
     margin: 85px;
 }
 .center
