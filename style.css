@@ -32,10 +32,6 @@ img
 
 .place
 {
-    display: flex;
-    flex-wrap: wrap;
-    align-content: center;
-    align-items: center;
     margin: 85px;
 }
 .center
